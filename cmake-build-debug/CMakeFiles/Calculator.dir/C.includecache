@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Arjun/Calculator/Calculator.c
+Calculator.h
+C:/Users/Arjun/Calculator/Calculator.h
+
+C:/Users/Arjun/Calculator/Calculator.h
+
